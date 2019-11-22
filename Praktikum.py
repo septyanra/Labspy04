@@ -31,7 +31,9 @@ while masukkan == "y":
      
         
 
-    masukkan = input("Input Data Selanjutnya?(y/t) => ")
+    jawab = input("Input Data Selanjutnya?(y/t) => ")
+    if jawab == "t":
+        break
 
     namaMHS.append(nama)
     nimMHS.append(nim)
