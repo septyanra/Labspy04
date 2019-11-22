@@ -25,7 +25,7 @@
 7.  Buatlah sebuah tabel sederhana seperti gambar dibawah.
 7.	Kemudian kita bisa gunakan **fungsi range** dalam perulangan menggunakan **for** untuk iterasi (pengulangan) bilangan berurut. Dengan menggunakan kombinasi **fungsi range** dan **fungsi len** untuk mendapatkan panjang atau jumlah elemen suatu data sekuensial atau berurut.
 
-     ![Capture002](https://user-images.githubusercontent.com/57028466/69445086-3f8f8280-0d17-11ea-8f5d-2be56ead9386.PNG)
+     ![Capturerev](https://user-images.githubusercontent.com/57028466/69447119-69e33f00-0d1b-11ea-81f8-13c0e79db4ac.PNG)
   
 8. Setelah di **run** maka hasilnya akan seperti dibawah.
 
